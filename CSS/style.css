@@ -60,6 +60,50 @@ nav{
     background-color: #2cc76a;
     border-radius: 5px;
 }
-.default-btn:hover{
-    background-color: #22bb5f;
+.navbar-itens .default-btn:hover {
+    background-color: #0a843a;
+    color: #fff;
 }
+
+
+
+/*Banner*/
+
+.main-banner{
+    background-image: url("/IMG/Cidade.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 10rem 0;
+}
+
+.main-banner h1,
+.main-banner p{
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: #181b1d 3px 2px 3px;
+}
+
+.main-banner h1{
+    font-size: 54px;
+}
+
+.main-banner p{
+    font-size: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
